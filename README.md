@@ -56,4 +56,6 @@ A **Software Engineer** specializing in **Big Data Systems** and **UX/UI Design*
 
 Feel free to reach out if you'd like to chat about **AI Development**, **Software Engineering**, or exciting collaborations!
 
-🌐 [nicholascai.com](https://nicholascai.com/)
+📩 **Email:** [nicholasmxcai@gmail.com](mailto:nicholasmxcai@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/nicholascai](https://www.linkedin.com/in/nicholascai/)  
+🌐 **Portfolio:** [nicholascai.com](https://nicholascai.com/)
