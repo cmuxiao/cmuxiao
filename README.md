@@ -1,6 +1,6 @@
 # Hi, I'm Nicholas 👋
 
-A **Software Engineer** specializing in **Big Data Systems** and **UX/UI Design**. I enjoy solving complex problems and building innovative software solutions that make an impact.
+A **Software Engineer** specializing in **Big Data Systems** and **UX/UI Design**
 
 🌐 **Check out my website**: [nicholascai.com](https://nicholascai.com/)
 
