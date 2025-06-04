@@ -1,4 +1,4 @@
-# Hi, I'm Nicholas 👋
+# Hi, I'm Nicholas Cai👋
 
 A **Software Engineer** specializing in **Big Data Systems** and **UX/UI Design**
 
